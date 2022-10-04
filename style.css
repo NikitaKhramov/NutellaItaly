@@ -295,17 +295,17 @@ span+span {
 }
 
 .RR__poster {
-    background: #75000e;
-    background: linear-gradient(0deg, #e20019 0%, #e20019 55%, rgba(0, 212, 255, 0) 100%);
+    background: #dab10f;
+    background: linear-gradient(0deg, #018dca 0%, #018dca 55%, rgba(0, 212, 255, 0) 100%);
 }
 
 .JH__poster {
     background: #e20019;
-    background: linear-gradient(0deg, #e20019 0%, #e20019 55%, rgba(0, 212, 255, 0) 100%);
+    background: linear-gradient(0deg, #01bcdd 0%, #01bcdd 55%, rgba(0, 212, 255, 0) 100%);
 }
 .Corey__poster {
     background: #e20019;
-    background: linear-gradient(0deg, #e20019 0%, #e20019 55%, rgba(0, 212, 255, 0) 100%);
+    background: linear-gradient(0deg, #2d2995 0%, #2d2995 55%, rgba(0, 212, 255, 0) 100%);
 }
 
 #close__x,#close__x2,#close__x3,#close__x4 {
