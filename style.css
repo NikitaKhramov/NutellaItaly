@@ -23,7 +23,7 @@ p {
     flex-direction: row;
     margin: 0 auto;
     height:50px;
-    border-bottom: 1px solid #2a3741;
+    border-bottom: 1px solid #a9c2d6;
     position: fixed;
     top:0;
     z-index: 1;
@@ -405,7 +405,13 @@ span+span {
 .text-about{
     width:500px;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 30px;
+}
+.text-about>h3{
+    margin-top: 90px;
+}
+.text-about>.last{
+    margin-bottom: 50px;
 }
 .horizontal{
     width:350px;
